@@ -1,0 +1,1 @@
+I will be deconstructing an existing web page and rebuilding it. I should have demonstrated my basic HTML/CSS skills along with using the web inspector.
