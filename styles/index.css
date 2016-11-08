@@ -1,0 +1,33 @@
+.center-logo {
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin: 100px 0 0 -150px;
+}
+
+.google-form {
+	width: 300px;
+	height: auto;
+}
+
+.google-form form {
+	width: 300px;
+	height: auto;
+	margin: 10px auto;
+}
+
+#google-search {
+	width: 300px;
+	display: block;
+	margin: 10px auto;
+}
+
+#google-submit {
+	width: 125px;
+	float: left;
+}
+
+#feeling-lucky {
+	width: 125px;
+	float: right;
+}
